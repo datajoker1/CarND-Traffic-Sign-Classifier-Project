@@ -1,3 +1,6 @@
+train.p
+valid.p
+test.p
 data
 .ipynb_checkpoints
 *.h5
